@@ -1,4 +1,4 @@
 const sum = (a,b) => a + b;
 
-//common js
-module.exports = sum;
+//ECMA2015
+export default sum;
